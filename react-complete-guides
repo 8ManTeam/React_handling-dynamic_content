@@ -1,0 +1,15 @@
+react-complete-app
+
+gehan@rezadmin:~$ sudo su
+root@rezadmin:/home/gehan# npm -v
+6.13.4
+
+root@rezadmin:/home/gehan/Desktop/my-react-app# sudo create-react-app react-complete-app
+
+root@rezadmin:/home/gehan/Desktop/my-react-app# sudo create-react-app my-react-app
+
+sudo chmod a+rwx /home/gehan/Desktop/my-react-app/my-react-app
+sudo chmod -R 777 /home/gehan/Desktop/my-react-app/my-react-app
+
+sudo chmod a+rwx /home/gehan/Desktop/my-react-app/react-complete-app
+sudo chmod -R 777 /home/gehan/Desktop/my-react-app/react-complete-app/react-complete-app
